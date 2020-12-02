@@ -1,0 +1,19 @@
+# depslib dependency file v1.0
+1606912219 source:c:\users\thomas pc\onedrive\desktop\abm clientes\abm clientes y alquileres\utn.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<ctype.h>
+	"utn.h"
+
+1606911913 c:\users\thomas pc\onedrive\desktop\abm clientes\abm clientes y alquileres\utn.h
+
+1606912972 source:c:\users\thomas pc\onedrive\desktop\abm clientes\abm clientes y alquileres\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"alquiler.h"
+	"utn.h"
+
+1606912970 c:\users\thomas pc\onedrive\desktop\abm clientes\abm clientes y alquileres\alquiler.h
+
